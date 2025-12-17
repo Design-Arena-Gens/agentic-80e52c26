@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;
+  overflow-x: hidden;
+  background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
+  min-height: 100vh;
+}
